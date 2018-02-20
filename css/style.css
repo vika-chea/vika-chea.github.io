@@ -2651,3 +2651,13 @@ ul.timeline > li > .timeline-badge {
 	visibility: visible; animation-name: fadeInLeft;     animation-name: fadeInLeft;
     font-size: 25px; margin: 0; padding-top: 12px;
 }
+.add-padding-bot
+{
+	padding: 15px
+}
+.shadow {
+	-webkit-box-shadow: 0 14px 6px -6px #777;
+	   -moz-box-shadow: 0 14px 6px -6px #777;
+	        box-shadow: 0 14px 6px -6px #777;
+}
+
